@@ -1,0 +1,9 @@
+1|29/06/2026|Esteban Rojas|Servidores y Redes|Caida del servidor principal de base de datos. Los clientes no pueden realizar transacciones en la web.|Critica|Abierto
+3|04/07/2026|Matias Moya|Marketing|La computadora de dise¤o no reconoce la tableta grafica tras la ultima actualizacion del sistema operativo|Media|Resuelto
+4|01/07/2026|Alejandro Herrera|Seguridad Informatica |Alerta intento de hackeo por fuerza bruta en el portal financiero. se detectaron multiples IP bloqueadas |Critica|Abierto
+5|03/07/2026|Juan Rivadeneira |Recepcion|La impresora multifuncional del pasillo principal tiene un atasco de papel persistente y no permite sacar copias |Baja|Abierto
+6|01/06/2026|Camila|Ventas|el sistema CRM se congela por completo al momento de procesar cierres de caja y emitir las facturas digitales|Alta|Abierto
+7|02/06/2026|Paulina|Desarrollo de software|el nuevo progamador del equipo no tiene accesos habilitados al repositorio en github|Media|En Proceso
+8|06/07/2026|Domenica |Call Center |Interferencia fuerte y caida de llamadas en la linea telefonica IP dedicada al soporte de atencion al cliente |Alta|En Proceso
+9|07/07/2026|Antonia Villa|Bodega E inventarios |El lector de codigod de barra inalambrico no sincroniza los datos de los productos con la bbase central|Media|Abierto
+10|05/07/2026|Carla Moreno|Finanzas |Se requiere la instalacion y actualizacion de las plantillas de retencion de impuestos para el nuevo mes|Baja|Abierto
